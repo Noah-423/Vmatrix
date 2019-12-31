@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include<stdlib.h>
-#include <stddef.h>
 #define MAX_TOTAL 10
 #define MAX_SIZE 4
 void inputMatrices(int (*p)[MAX_SIZE],size_t size){
